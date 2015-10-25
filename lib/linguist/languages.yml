@@ -3012,6 +3012,13 @@ Ruby:
   - Vagrantfile
   - buildfile
 
+RPM Specfile:
+  type: markup
+  color: "#820f0f"
+  extensions:
+  - .spec
+  ace_mode: text
+
 Rust:
   type: programming
   color: "#dea584"
